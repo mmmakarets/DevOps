@@ -1,2 +1,2 @@
 # DevOps
-DevOpse Course
+DevOps Course
